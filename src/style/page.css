@@ -1,0 +1,45 @@
+.details {
+    margin-bottom: 100px;
+    margin-top: 132px;
+    top: 20px;
+    position: fixed;
+    width: 30%;
+}
+
+.listes{
+    width: 100%;
+}
+
+.selectList{
+    cursor: pointer;
+}
+.styleDefault {  
+    padding-top: 0px;  
+    padding-bottom: 0px;  
+}
+
+.styleDefaultChild {  
+    margin-bottom: 1px;  
+    padding-bottom: 0px;  
+}
+
+.fixe{
+    padding-bottom: 5px;
+    margin:  0px;
+}
+.padding{
+    padding:0px;
+    margin:  0px;
+}
+.paddingNull{
+    padding-top: 8px;
+}
+.paddingNul{
+    padding: 5px;
+    margin:  0px;
+}
+.cardForm{
+    padding: 0px;
+    margin:  0px;
+
+}
